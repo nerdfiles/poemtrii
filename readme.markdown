@@ -8,7 +8,7 @@ A collection of poems from out of nowhere.
 
 ##Constraints
 
-A significant number of these poems shall be express'd with the dyslexic-notational _typeface_ [AlphaSymbolic](https://github.com/antijingoist/AlphaSymbolic), render'd by [Abelard Gonzales](http://abbiecod.es/). (I am sure other faces could be algorithmically generated such that a general _font_ library may be draft'd.) For the most part this repository will play out as a linguistic exercise area for learning the notational font, in hope that it shall become quickly master'd. 
+A significant number of these poems shall be express'd with the dyslexic-notational _typeface_ [AlphaSymbolic](https://github.com/antijingoist/AlphaSymbolic), render'd by [Abelard Gonzales](http://abbiecod.es/). (I am sure other faces could be algorithmically generated such that a general _font_ library may be draft'd.) For the most part this repository will play out as a linguistic exercise area for learning the notational typeface, in hope that it shall become quickly master'd. 
 
 ###Note
 
