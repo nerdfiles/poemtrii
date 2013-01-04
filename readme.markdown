@@ -16,7 +16,7 @@ Thus, poems rendered without uppercase glyths likely were written in AlphaSymbol
 
 ##Natural languages
 
-As a step beyond our constraints or, that is, the rules of this game, after having mastere'd the notational font, or as some put it: its own _language_, a strategy should be develop'd and standardized toward the mastery of all Latin-based natural languages.
+As a step beyond our constraints or, that is, the rules of this game, after having master'd the notational typeface, or as some put it: its own _language_, a strategy should be develop'd and standardized toward the mastery of all Latin-based natural languages.
 
 ###Language storage
 
