@@ -14,11 +14,11 @@ A significant number of these poems shall be express'd with the dyslexic-notatio
 
 Thus, poems rendered without uppercase glyths likely were written in AlphaSymbolic.
 
-##Natural Languages
+##Natural languages
 
 As a step beyond our constraints or, that is, the rules of this game, after having mastere'd the notational font, or as some put it: its own _language_, a strategy should be develop'd and standardized toward the mastery of all Latin-based natural languages.
 
-###Language Storage
+###Language storage
 
 Study materials shall be collected onto Dropbox: [https://www.dropbox.com/sh/sscph5xpshvwttc/IPJB1a7bsU/Languages](https://www.dropbox.com/sh/sscph5xpshvwttc/IPJB1a7bsU/Languages)
 
@@ -26,7 +26,7 @@ Study materials shall be collected onto Dropbox: [https://www.dropbox.com/sh/ssc
 2. Spanish
 3. [And so on](http://en.wikipedia.org/wiki/Romance_languages)...
 
-##Essential Reading
+##Essential reading
 
 1. [Dyslexic Notation](http://infosthetics.com/archives/2012/07/dyslexic_notation.html).
 2. [What's Whole in Whole Language?](http://www.goodreads.com/book/show/2694061-what-s-whole-in-whole-language).
@@ -38,7 +38,7 @@ Study materials shall be collected onto Dropbox: [https://www.dropbox.com/sh/ssc
 6. Any judiciously revelatory course in descriptivist linguistics, or the [language log](http://languagelog.ldc.upenn.edu/nll/).
 7. For kicks and propserity: Noam Chomsky's [Syntactic Structures]().
 
-##Other Debris
+##Other debris
 
 1. Lexical Functional Grammars.
 2. Finite-state Morphological Grammars.
