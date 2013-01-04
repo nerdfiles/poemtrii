@@ -43,6 +43,7 @@ Study materials shall be collected onto Dropbox: [https://www.dropbox.com/sh/ssc
 1. Lexical Functional Grammars.
 2. Finite-state Morphological Grammars.
 3. Natural Language Processing.
+4. Primer: [Innateness](http://plato.stanford.edu/entries/innateness-language/)
 
 ##Recent applications
 
