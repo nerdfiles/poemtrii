@@ -8,7 +8,11 @@ A collection of poems from out of nowhere.
 
 ##Constraints
 
-A significant number of these poems shall be express'd with the dyslexic-notational _typeface_ [AlphaSymbolic](https://github.com/antijingoist/AlphaSymbolic), render'd by [Abelard Gonzales](http://abbiecod.es/). (I am sure other faces could be algorithmically generated such that a general _font_ library may be draft'd.) For the most part this repository will play out as a linguistic exercise area for learning the notational typeface, in hope that it shall become quickly master'd. 
+A significant number of these poems shall be express'd with the dyslexic-notational _typeface_ [AlphaSymbolic](https://github.com/antijingoist/AlphaSymbolic), render'd by [Abelardo Gonzales](http://abbiecod.es/). (I am sure other faces could be algorithmically generated such that a general _font_ library may be draft'd.) For the most part this repository will play out as a linguistic exercise area for learning the notational typeface, in hope that it shall become quickly master'd. 
+
+"The basis for our creative effort was the metaphor that dyslexics view characters as three-dimensional shapes. This way our characters seem to have an organic stature
+to them. The English language is almost fifty percent redundant with the typeface we carried that redundancy over to the letter itself so that even if confusion does occur that characters are still easily distinguished."
+— "Dyslexic Notation: Combining Aesthetics and Scientific Notation to Combat Dyslexia", Geraid Morin & Kanny Yeung
 
 ###Note
 
