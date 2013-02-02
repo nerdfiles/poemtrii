@@ -49,6 +49,16 @@ choose morphemes or phrases from presentation-sets which most intuitively speak 
 with, say, a candidate "situation" or "imagine" for which those terms are most representative. I want for people to learn 
 AlphaSymbolic; but most importantly, for people not to be taken aback at the sight of others *reading* in AlphaSymbolic.
 
+###AlphaSymbolic's "glyphobet", if you will:
+
+![Figure 1](http://infosthetics.com/archives/ScreenShot148.jpg)
+From Infosthetic's research [report](http://infosthetics.com/archives/2012/07/dyslexic_notation.html).
+
+![Figure 2](http://antijingoist.github.com/AlphaSymbolic/images/alphasymbolic.png)
+From antijingoist's highly usable, practical [rendering](http://antijingoist.github.com/AlphaSymbolic/) of the typeface.
+
+###A use-case scenario, or a "killer app," I reckon (fund me now, dammit)
+
 Imagine:
 
 | WordInAlphaSymbolic* | WordInDyslexicFont | WordInSerifFont | WordInSansSerifFont |
