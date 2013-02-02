@@ -42,6 +42,34 @@ Study materials shall be collected onto Dropbox: [https://www.dropbox.com/sh/ssc
 6. Any judiciously revelatory course in descriptivist linguistics, or the [language log](http://languagelog.ldc.upenn.edu/nll/).
 7. For kicks and propserity: Noam Chomsky's [Syntactic Structures]().
 
+##Some inspiration
+
+Originally I had the idea of using AlphaSymbolic as a pictographic mapping system. So, users would be expected to 
+choose morphemes from presentation-sets which most intuitively speak to them, based on the given typesetting. Imagine:
+
+| WordInAlphaSymbolic* | WordInDyslexicFont | WordInSerifFont | WordInSansSerifFont |
+
+The user chooses the morphological or graphemological construct which most speaks to the them. The hypothesis here, 
+essentially, is that all typefaces (applied fonts under a particular use-case) carries metainformation (on top of 
+being about a topic). The goal would be to acclimate the user to a new typeface (ideally, AlphaSymbolic). However, 
+this method could readily be used for A26 or even Blissymbols.
+
+###Current Applications
+
+1. http://typing.io
+2. http://typing.lk
+
+###Requirements
+
+However, now my project has been given certain concrete inspiration from the aforementioned Web applications which primarily 
+aim at teaching coders how to better acquaint themeselves with alternative paradigms of coding and languages, in general. 
+My project now will consist of a (still "Whole") language acquisition app, but furthermore:
+
+1. [Syzygy](http://journal.webscience.org/491/) search the Web for ideal-phrase candidates (linguistic constructs which conform to Whole language teaching practices) from an array of languages.
+2. Intuitively accept as input, that said, hypernyms, undernyms, synonyms, vernacularisms, idiomatic alternatives for morphological units.
+3. Present alternative typesettings, including notational fonts and dyslexic fonts (like AlphaSymbolic and OpenDyslexic).
+4. Have an Easter egg where the scales of music are present for piano.
+
 ##Other debris
 
 1. Lexical Functional Grammars.
