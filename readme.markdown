@@ -85,6 +85,17 @@ My project now will consist of a (still "Whole") language acquisition app, but f
 3. Present alternative typesettings, including notational fonts and dyslexic fonts (like AlphaSymbolic and OpenDyslexic).
 4. Have an Easter egg where the scales of music are present for piano.
 
+###The "Pitch"
+
+For those of the MBA mentality:
+
+    Allow the users to type out AlphaSymbolic* over conventional/ideal candidate phrases from an initial starting language.
+
+####Domain Name Ideas
+
+    http://glyphabet.io
+    http://glyphobet.io
+
 ##Other debris
 
 1. Lexical Functional Grammars.
