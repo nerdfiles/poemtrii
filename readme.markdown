@@ -45,19 +45,24 @@ Study materials shall be collected onto Dropbox: [https://www.dropbox.com/sh/ssc
 ##Some inspiration
 
 Originally I had the idea of using AlphaSymbolic as a pictographic mapping system. So, users would be expected to 
-choose morphemes from presentation-sets which most intuitively speak to them, based on the given typesetting. Imagine:
+choose morphemes or phrases from presentation-sets which most intuitively speak to them, based on presented typesettings 
+with, say, a candidate "situation" or "imagine" for which those terms are most representative. I want for people to learn 
+AlphaSymbolic; but most importantly, for people not to be taken aback at the sight of others *reading* in AlphaSymbolic.
+
+Imagine:
 
 | WordInAlphaSymbolic* | WordInDyslexicFont | WordInSerifFont | WordInSansSerifFont |
 
 The user chooses the morphological or graphemological construct which most speaks to the them. The hypothesis here, 
-essentially, is that all typefaces (applied fonts under a particular use-case) carries metainformation (on top of 
+essentially, is that all typefaces (applied fonts under a particular use-case) carry metainformation (on top of 
 being about a topic). The goal would be to acclimate the user to a new typeface (ideally, AlphaSymbolic). However, 
 this method could readily be used for A26 or even Blissymbols.
 
 ###Current Applications
 
-1. http://typing.io
-2. http://typing.lk
+1. [http://typing.io](http://typing.io)
+2. [http://typing.lk](http://typing.lk)
+3. Moreover, [http://wordnik.com](http://wordnik.com)
 
 ###Requirements
 
