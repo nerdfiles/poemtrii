@@ -52,9 +52,11 @@ AlphaSymbolic; but most importantly, for people not to be taken aback at the sig
 ###AlphaSymbolic's "glyphobet", if you will:
 
 ![Figure 1](http://infosthetics.com/archives/ScreenShot148.jpg)
+
 From Infosthetic's research [report](http://infosthetics.com/archives/2012/07/dyslexic_notation.html).
 
 ![Figure 2](http://antijingoist.github.com/AlphaSymbolic/images/alphasymbolic.png)
+
 From antijingoist's highly usable, practical [rendering](http://antijingoist.github.com/AlphaSymbolic/) of the typeface.
 
 ###A use-case scenario, or a "killer app," I reckon (fund me now, dammit)
