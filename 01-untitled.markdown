@@ -2,6 +2,7 @@
 
     I own the streets
     He owns the road
+    
     Cats in despair,
     Structs and the echo of
     Anything carefully assessed, or
@@ -23,4 +24,4 @@
     the machinations of logic churn mechanically, the notion of a 
     template imbibes of content. As a slice, intersections of canoni-
     cal forms emerge inevitably, through the diagonalization method
-    itself being representable within its constitution .
+    itself being representable within its constitution.
