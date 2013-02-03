@@ -11,7 +11,7 @@
     The lylac and idyllic contempible swagger
     That generates all together fibers ecolackkkking
     Egotistical regions, sub stories, which bathe, integrate,,,
-    However quizzacally in the natural world. Indeed, such a beginning
+    However quizzically in the natural world. Indeed, such a beginning
     remains doubtless a curiosity, that the world rendered may weave 
     into one numerically unbounded. Countless beginnings occur within
     the world of logic. Transformations, rendered as _modus ponens_, 
