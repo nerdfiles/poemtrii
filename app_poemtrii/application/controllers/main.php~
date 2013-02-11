@@ -2,10 +2,12 @@
 
 class Main extends Controller {
 	
-	function index() {
+	function index()
+	{
 		$template = $this->loadView('main_view');
 		$template->render();
-
-	} }
+	}
+    
+}
 
 ?>
