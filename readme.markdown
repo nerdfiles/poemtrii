@@ -4,7 +4,7 @@ A collection of poems from out of nowhere.
 
 ##Students
 
-1. Aharon Alexander ([nerdfiles@gmail.com](nerdfiles@gmail.com))
+1. Aharon Alexander ([nerdfiles@gmail.com](mailto://hello@gmail.com))
 
 ##Constraints
 
@@ -17,6 +17,18 @@ to them. The English language is almost fifty percent redundant with the typefac
 ###Note
 
 Thus, poems rendered without uppercase glyths likely were written in AlphaSymbolic.
+
+##As a Classroom
+
+Optimal mobility would be key. 
+
+1. Students can submit their assignment answers as pull requests, 
+2. Configured to personal secure tablet computers,
+3. With pre-commit hooks which implement auditing and checking APIs,
+4. And post-commit hooks which implement visualization and apprentice management APIs,
+5. And passes results data to front-end which intersets given data with analytics APIs,
+6. To: Measure mentee growth through Whole language systems,
+7. To: Develop neural micropathing heuristics (NMPH) and metalearning integration systems (MIS).
 
 ##Natural languages
 
