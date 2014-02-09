@@ -118,7 +118,7 @@ For those of the MBA mentality:
 3. Natural Language Processing.
 4. Primer: [Innateness](http://plato.stanford.edu/entries/innateness-language/)
 
-##Recent applications
+##Inspiration, Research
 
 1. [Syntactic](http://syntactic.omershapira.com/), by Creative Technologist [Omer Shapira](http://omershapira.com/).
 2. [NLTK](http://nltk.org/).
